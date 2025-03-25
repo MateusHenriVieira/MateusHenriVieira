@@ -1,4 +1,4 @@
-# Hi there, I'm Mateus Henri Vieira 👋
+# Hi there, I'm Mateus Henrique Vieira 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MateusHenriVieira&color=blue" alt="Profile views counter" />
