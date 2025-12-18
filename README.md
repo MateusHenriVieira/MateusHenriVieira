@@ -30,7 +30,6 @@
 
 ## Se conecte comigo
 <div>
-  <!-- Add your social media links here -->
   <a href="https://www.linkedin.com/in/mateushenrivieira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
