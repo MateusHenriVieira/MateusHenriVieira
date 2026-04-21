@@ -1,4 +1,4 @@
-# Mateus Henri Vieira
+# Mateus Vieira
 
 Full stack developer building mobile and web applications for public sector and private clients.
 
@@ -46,4 +46,4 @@ I build software that has to survive real-world conditions — inconsistent inte
 
 Open to consulting, freelance projects, and technical conversations.
 
-[LinkedIn](https://www.linkedin.com/in/mateushenrivieira) · mateus.henri@example.com
+[LinkedIn](https://www.linkedin.com/in/mateus-vieira-917b54404?) · mateushenrivieira@gmail.com
