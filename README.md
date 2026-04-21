@@ -13,7 +13,7 @@ Developing internal systems for the **Águas Belas City Hall** since January 202
 Shipped to production:
 
 - **UrbaOS** — Municipal work order management system (Gestor + Técnico apps)
-- **Notes** — Note-taking app with encrypted sync and scheduled notifications
+- **Flint** — Note-taking app with encrypted sync and scheduled notifications
 
 In development:
 
