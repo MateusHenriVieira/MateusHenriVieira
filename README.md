@@ -46,4 +46,4 @@ I build software that has to survive real-world conditions — inconsistent inte
 
 Open to consulting, freelance projects, and technical conversations.
 
-[LinkedIn](https://www.linkedin.com/in/mateus-vieira-917b54404?) · mateushenrivieira@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mateushenrivieira) · mateushenrivieira@gmail.com
